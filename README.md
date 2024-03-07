@@ -1,4 +1,4 @@
-[![MasterHead](https://creativeteachered.org/wp-content/uploads/2021/10/SteamBanner5.gif)](https://khayrullo-isomiddinov.github.io)
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://khayrullo-isomiddinov.io)
 <h1 align="center">Hi 👋, I'm Harry</h1>
 <h3 align="center">A passionate student of Computer Science from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
