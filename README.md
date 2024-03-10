@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **e-commerce application development**
 
-- 🌱 I’m currently learning **Java, Spring framework, C#**
+- 🌱 I’m currently learning **Java, Spring framework, C#, JavaScript**
 
 - 💬 Ask me about **Java**
 
