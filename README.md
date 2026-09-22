@@ -1,4 +1,3 @@
-
 ```
 Harry@ELTE
 -------------------------------------------------------------
@@ -8,19 +7,20 @@ Harry@ELTE
         ██╔══██║        IDE: VS Code · IntelliJ · PyCharm
         ██║  ██║
         ╚═╝  ╚═╝        Languages: TypeScript, JavaScript, Python, Java, C#
-                         Runtime: Bun
-                         Cloud: AWS — Lambda, S3, ECS/Fargate, EC2,
+                        Runtime: Bun, NodeJs, Spring Boot, FastAPI
+                        Cloud: AWS — Lambda, S3, ECS/Fargate, EC2,
                                 RDS, DynamoDB, CloudFormation, CI/CD
 
-        Currently:  building Blinkr (blinkr.fit), a workout progress app
-        Hobbies:    football ⚽ · shipping side projects
+        Currently:  building Blinkr [Blinkr](https://blinkr.fit), a workout progress app
+        Hobbies:    football ⚽ · side projects
         Fun fact:   shares a birthday with Linus Torvalds
 
 -------------------------------------------------------------
-        Email     khayrullo2@outlook.com
-        Website   khayrullo.com
-        LinkedIn  khayrullo-isomiddinov
-        GitHub    khayrullo-isomiddinov
+        Email       khayrullo2@outlook.com
+        Work Email  bet9fi@inf.elte.hu
+        Website     khayrullo.com
+        LinkedIn    khayrullo-isomiddinov
+        GitHub      khayrullo-isomiddinov
 ```
 
 <p align="center">
@@ -76,17 +76,9 @@ Harry@ELTE
 
 ### GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=khayrullo-isomiddinov&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khayrullo-isomiddinov&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khayrullo-isomiddinov&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khayrullo-isomiddinov&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 ---
