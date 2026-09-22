@@ -1,7 +1,7 @@
 ```
 Harry@ELTE
 -------------------------------------------------------------
-        ██╗  ██╗        OS: Ubuntu 24 · macOS
+        ██╗  ██╗        OS: Ubuntu 24.04 LTS · macOS
         ██║  ██║        Host: Eötvös Loránd University
         ███████║        Kernel: knows Linux internals
         ██╔══██║        IDE: VS Code · IntelliJ · PyCharm
