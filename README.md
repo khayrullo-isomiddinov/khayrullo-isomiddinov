@@ -11,7 +11,7 @@ Harry@ELTE
                         Cloud: AWS — Lambda, S3, ECS/Fargate, EC2,
                                 RDS, DynamoDB, CloudFormation, CI/CD
 
-        Currently:  building Blinkr [Blinkr](https://blinkr.fit), a workout progress app
+        Currently:  building Blinkr https://blinkr.fit, a workout progress app 
         Hobbies:    football ⚽ · side projects
         Fun fact:   shares a birthday with Linus Torvalds
 
